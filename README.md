@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baciladan
 - 👀 I’m interested in ... Web Development / UI UX Design / HTML5 / CSS3 / JavaScript / React.JS / Vue.JS and more
-- 🌱 I’m currently learning ... React.JS more in depth and Vue.JS basics
+- 🌱 I’m currently learning ... React.JS advanced concepts, React Native and Vue.JS basics
 - 💞️ I’m looking to collaborate on ... Any web project as a Front-End Developer
 - 📫 How to reach me ... You can reach me @ baciladan0@gmail.com .  Be sure to also check my Portfolio page @ https://baciladan.com
 
